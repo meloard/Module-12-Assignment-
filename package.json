@@ -1,0 +1,27 @@
+{
+  "name": "module-12-assignment-",
+  "version": "1.0.0",
+  "description": "Module 12 Assignment - Employee Tracker - Node + MYSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meloard/Module-12-Assignment-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meloard/Module-12-Assignment-/issues"
+  },
+  "homepage": "https://github.com/meloard/Module-12-Assignment-#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "inquirer": "^9.1.4",
+    "mysql2": "^2.3.3"
+  }
+}
